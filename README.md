@@ -6,6 +6,10 @@ Api for the iOS/Android apps.
 
 ## Deploy
 
+NODEPOP http://ec2-3-21-92-198.us-east-2.compute.amazonaws.com/
+
+REACT http://3.21.92.198/
+
 ### Install dependencies
 
     npm install
@@ -106,3 +110,4 @@ Return the list of available tags for the resource anuncios.
         "mobile"
       ]
     }
+
