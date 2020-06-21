@@ -5,7 +5,7 @@
 Api for the iOS/Android apps.
 
 ## Deploy
-
+Accede a las aplicaciones a través de los siguientes enlaces:
 NODEPOP http://ec2-3-21-92-198.us-east-2.compute.amazonaws.com/
 
 REACT http://3.21.92.198/
